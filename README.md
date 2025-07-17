@@ -18,4 +18,4 @@ A monorepo e-commerce store designed for a seamless shopping experience and powe
 *   **Database:** MongoDB (Mongoose), Redis (Upstash)
 *   **Payments:** Stripe
 *   **Media:** Cloudinary
-*   **Deployment:** render
+*   **Deployment:** netlify and vercel
